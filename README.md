@@ -4,7 +4,8 @@ I'm Mijail, a Developer Consultant at ThoughtWorks, in this role my main goal is
 
 I'm always trying to help on open source projects :octocat: and free-knowledge communities, I'm actively organizing events and helping people to grow as professionals with the open source in mind.
 
--	🔭 I’m currently working on a event driven \*AAS B2B2C on Java.
+-	🔭 I’m working on a developer portal / control plan dashboard solution.
+- ⌨️ I'm currently using a Javascript/Typescript and React stack.
 -	🌱 I’m currently learning Rust, Go, Elixir.
 -	👯 I’m looking to cllaborate on Rust open source projects.
 -	📖 I'm writing a handbook for AWS Solution Architect.
