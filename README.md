@@ -7,7 +7,8 @@ I'm always trying to help on open source projects :octocat: and free-knowledge c
 -	🔭 I’m working on a developer portal / control plan dashboard solution.
 - ⌨️ I'm currently using a Javascript/Typescript and React stack.
 -	🌱 I’m currently learning Rust, Go, Elixir.
--	👯 I’m looking to cllaborate on Rust open source projects.
+-	👯 I’m looking to collaborate on Rust open source projects.
+- 📦 I'm developing an open-source [API Wrapper for Terraform Cloud](https://github.com/mijailr/terraform-cloud).
 -	📖 I'm writing a handbook for AWS Solution Architect.
 -	📫 How to reach me: mijail@hey.com
 -	😄 Pronouns: he/him
