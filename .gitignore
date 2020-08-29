@@ -6,3 +6,6 @@
 *.pdf
 *.out
 *.gz
+
+# Ignore node modules
+node_modules
