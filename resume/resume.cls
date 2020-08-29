@@ -114,6 +114,30 @@
 }
 
 % -----------------------
+% Skills
+% -----------------------
+
+\newcommand{\Skill}[1]{
+  % \tikzmarknode[inner sep=0.4em,rounded corners,fill=teal!100!]{A}{\color{white}{\textbf{#1}}}
+  \color{teal}{\textbf{#1}}
+}
+
+% -----------------------
+% Section
+% -----------------------
+
+\def \line{
+    \linebreak\noindent\makebox[\linewidth]{\textcolor{teal}{\rule{\paperwidth}{0.8pt}}}
+}
+
+\newcommand{\SectionTitle}[1]{
+  \begingroup
+    \Large{\bf{#1}}
+    \line
+  \endgroup
+}
+
+% -----------------------
 % Init document
 % -----------------------
 
