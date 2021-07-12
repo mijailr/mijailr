@@ -5,9 +5,9 @@ I'm Mijail, a Full-Stack software engineer with experience working on diverse in
 I'm also an open-source contributor and an inner-source advocate, helping enterprises adopting practices to boost productivity and collaboration within the organization and generate impact in the open-source community.
 
 ## Statuses:
-🔭 Working on an e-commerce platform.
-⌨️ Currently using a Javascript/Typescript and React stack.
-🌱 Learning Rust 🦀 and eager to work with Rust.
-👯 Looking to collaborate on Rust's 🦀 open-source projects.
-📦 Developing an open-source API Wrapper for Terraform Cloud.
-😄 Pronouns: he/him
+- 🔭 Working on an e-commerce platform.
+- ⌨️ Currently using a Javascript/Typescript and React stack.
+- 🌱 Learning Rust 🦀 and eager to work with Rust.
+- 👯 Looking to collaborate on Rust's 🦀 open-source projects.
+- 📦 Developing an open-source API Wrapper for Terraform Cloud.
+- 😄 Pronouns: he/him
